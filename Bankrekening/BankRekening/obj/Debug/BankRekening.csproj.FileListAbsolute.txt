@@ -1,0 +1,10 @@
+C:\Users\senne\source\repos\BankRekening\BankRekening\bin\Debug\BankRekening.exe.config
+C:\Users\senne\source\repos\BankRekening\BankRekening\bin\Debug\BankRekening.exe
+C:\Users\senne\source\repos\BankRekening\BankRekening\bin\Debug\BankRekening.pdb
+C:\Users\senne\source\repos\BankRekening\BankRekening\obj\Debug\BankRekening.csprojAssemblyReference.cache
+C:\Users\senne\source\repos\BankRekening\BankRekening\obj\Debug\BankRekening.Form1.resources
+C:\Users\senne\source\repos\BankRekening\BankRekening\obj\Debug\BankRekening.Properties.Resources.resources
+C:\Users\senne\source\repos\BankRekening\BankRekening\obj\Debug\BankRekening.csproj.GenerateResource.cache
+C:\Users\senne\source\repos\BankRekening\BankRekening\obj\Debug\BankRekening.csproj.CoreCompileInputs.cache
+C:\Users\senne\source\repos\BankRekening\BankRekening\obj\Debug\BankRekening.exe
+C:\Users\senne\source\repos\BankRekening\BankRekening\obj\Debug\BankRekening.pdb

@@ -1,0 +1,10 @@
+C:\Users\senne\source\repos\Dobbelspel\Dobbelspel\bin\Debug\Dobbelspel.exe.config
+C:\Users\senne\source\repos\Dobbelspel\Dobbelspel\bin\Debug\Dobbelspel.exe
+C:\Users\senne\source\repos\Dobbelspel\Dobbelspel\bin\Debug\Dobbelspel.pdb
+C:\Users\senne\source\repos\Dobbelspel\Dobbelspel\obj\Debug\Dobbelspel.csprojAssemblyReference.cache
+C:\Users\senne\source\repos\Dobbelspel\Dobbelspel\obj\Debug\Dobbelspel.Form1.resources
+C:\Users\senne\source\repos\Dobbelspel\Dobbelspel\obj\Debug\Dobbelspel.Properties.Resources.resources
+C:\Users\senne\source\repos\Dobbelspel\Dobbelspel\obj\Debug\Dobbelspel.csproj.GenerateResource.cache
+C:\Users\senne\source\repos\Dobbelspel\Dobbelspel\obj\Debug\Dobbelspel.csproj.CoreCompileInputs.cache
+C:\Users\senne\source\repos\Dobbelspel\Dobbelspel\obj\Debug\Dobbelspel.exe
+C:\Users\senne\source\repos\Dobbelspel\Dobbelspel\obj\Debug\Dobbelspel.pdb
